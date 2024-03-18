@@ -1,0 +1,21 @@
+Done - 0. Sprawdzenie stanu zbioru danych
+    I. Typy zmiennych
+    II. Wartości brakujące
+Done - 1. Uzupełnie wartości brakujących -> brak takich wartości
+1.5 Powinienem też sprawdzić outlinery, ale szczerze mówiąc zbiór danych jest dość mały
+Done - 2. Dostosowanie zmienny kategorycznych
+    I. Zmiana typu z "object" na "str
+    II. Zastosowanie OneHotEncodera
+Done - 3. Przesklować wartości numeryczne
+    I. Użyć StandardScalera lub MinMaxScalera
+Done - 4. Podział danych na treningowe i uczące
+    I. Użyć traintestsplit
+5. DecisionTreeClassifier
+    I. Implementecja
+    II. Optymalizacja hiperparametrów (Metoda optymalizacji siatki - GridSearchCV)
+6. KNeighborsClassifier
+    I. Implementecja
+    II. Optymalizacja hiperparametrów (Metoda optymalizacji siatki - GridSearchCV)
+7. LinearRegression
+    I. Implementecja
+    II. Optymalizacja hiperparametrów (Metoda optymalizacji siatki - GridSearchCV)
