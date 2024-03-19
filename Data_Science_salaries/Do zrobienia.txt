@@ -10,7 +10,7 @@ Done - 3. Przesklować wartości numeryczne
     I. Użyć StandardScalera lub MinMaxScalera
 Done - 4. Podział danych na treningowe i uczące
     I. Użyć traintestsplit
-5. DecisionTreeClassifier
+Done - 5. DecisionTreeClassifier
     I. Implementecja
     II. Optymalizacja hiperparametrów (Metoda optymalizacji siatki - GridSearchCV)
 6. KNeighborsClassifier
