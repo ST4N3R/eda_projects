@@ -13,7 +13,7 @@ Done - 4. Podział danych na treningowe i uczące
 Done - 5. DecisionTreeClassifier
     I. Implementecja
     II. Optymalizacja hiperparametrów (Metoda optymalizacji siatki - GridSearchCV)
-6. KNeighborsClassifier
+Done - 6. RandomForestRegressor
     I. Implementecja
     II. Optymalizacja hiperparametrów (Metoda optymalizacji siatki - GridSearchCV)
 7. LinearRegression
