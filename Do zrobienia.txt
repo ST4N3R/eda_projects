@@ -28,7 +28,7 @@ Boxplot z outlinerami
 Heatmapa z correlacją
 
 2 - analiza konkretnych kolumn
-experince_level - change for different levels of experince (work_year, job_title, salary, employment_type, company_size)
+experince_level - change for different levels of experince (work_year, job_title, company_size)
 salaryinusd:
     1 - salary increase (work_year, experince_level, employment_type, top 3 job titles, company_size)
     2 - ml models
