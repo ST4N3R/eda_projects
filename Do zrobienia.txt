@@ -15,7 +15,7 @@ Wstępna analiza:
     - deep
 
 Co chcę pokazać?
-    - Analiza lig (średnia goli, punktów, różnych zwycięzców, xpts) - understat
+    - Analiza lig (średnia goli, punktów, różnych zwycięzców) - understat
     - Analiza statystyk:
         - Najbardziej pechowa i szczęśliwa drużyna pod bramką - understat
         - Najbardziej pechowa i szczęśliwa drużyna w konteście tabeli
